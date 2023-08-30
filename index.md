@@ -11,17 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Stephanie Sun
+## CS 19300 
+### First Website
 
-- Bulleted
-- List
+- I'm a bit confused
+- Testing this out
 
-1. Numbered
-2. List
+1. Monday
+2. Tuesday
 
-**Bold** and _Italic_ and `Code` text
+**GO BOILERS** and _Go Boilers_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```

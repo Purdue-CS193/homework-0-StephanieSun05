@@ -11,19 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Stephanie Sun
-## CS 19300 
-### First Website
+# <Stephanie Sun>'s First CS193 Homework
 
-- I'm a bit confused
-- Testing this out
+- CS193 is taught by upperclassmen rather than professors
+- CS193 is a chill class that combines learning with fun
+- CS193 will help me navigate the tools I need for success in Purdue CS
 
-1. Monday
-2. Tuesday
-
-**GO BOILERS** and _Go Boilers_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
